@@ -1,0 +1,20 @@
+# Build files
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider # IDE
+.idea/
+
+# Logs
+*.log
+
+# Secrets and local configuration
+appsettings.Development.json
+
+# User Secrets
+secrets.json

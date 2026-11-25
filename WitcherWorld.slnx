@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="WitcherWorld.Application/WitcherWorld.Application.csproj" />
+  <Project Path="WitcherWorld.Domain/WitcherWorld.Domain.csproj" />
+  <Project Path="WitcherWorld.Infrastructure/WitcherWorld.Infrastructure.csproj" />
+  <Project Path="WitcherWorld.Tests/WitcherWorld.Tests.csproj" />
+  <Project Path="WitcherWorld/WitcherWorld.csproj" />
+</Solution>
